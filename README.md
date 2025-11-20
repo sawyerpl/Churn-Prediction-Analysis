@@ -37,12 +37,15 @@ if end_date = a date → Customer has churned
 
 
 <h2>Graphs:</h2>
-
+<br/>
 <p align="center">
+<img src="https://imgur.com/t3NShys.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
 <b>Distributions - checking seasonal trends for new customer sign up<br/>
 <img src="https://imgur.com/2TvHWqP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
 <img src="https://imgur.com/eCX9lN7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
-<img src="https://imgur.com/t3NShys.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
