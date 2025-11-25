@@ -79,13 +79,20 @@ The marketing team provided client demographics, usage patterns, contract detail
 
 <br/>
 
+<h3>Correlation Matrix showing the correlation between each feature</h3>
+
 <img src="https://imgur.com/0H2hr1q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br/>
 
+<h3>Distribution of new customer sign up by month</h3>
+
 <img src="https://imgur.com/JwLY9VU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br/>
+
+
+<h3>Distribution of new customer sign up by year</h3>
 
 <img src="https://imgur.com/foCEjbe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
