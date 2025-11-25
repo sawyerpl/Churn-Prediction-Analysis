@@ -22,15 +22,15 @@ The marketing team provided client demographics, usage patterns, contract detail
 
 
 
-\- <b>Data preprocessing:</b> handling missing values, encoding categorical features, and scaling numerical features
+<b>Data preprocessing:</b> handling missing values, encoding categorical features, and scaling numerical features
 
-\- <b>Exploratory Data Analysis:</b> examining churn rates, patterns, and important correlations
+<b>Exploratory Data Analysis:</b> examining churn rates, patterns, and important correlations
 
-\- <b>Feature engineering:</b> creating new features to improve model performance
+<b>Feature engineering:</b> creating new features to improve model performance
 
-\- <b>Model training \& evaluation:</b> training multiple ML models and comparing their performance
+<b>Model training \& evaluation:</b> training multiple ML models and comparing their performance
 
-\- <b>Final conclusion:</b> evaluating results and selecting the best-performing model
+<b>Final conclusion:</b> evaluating results and selecting the best-performing model
 
 
 
@@ -38,17 +38,17 @@ The marketing team provided client demographics, usage patterns, contract detail
 
 
 
-\- Logistic Regression
+- Logistic Regression
 
-\- Random Forest
+- Random Forest
 
-\- Decision Trees
+- Decision Trees
 
-\- Gradient Boosting Classifier
+- Gradient Boosting Classifier
 
-\- XGBoost
+- XGBoost
 
-\- LightGBM
+- LightGBM
 
 
 
@@ -57,20 +57,17 @@ The marketing team provided client demographics, usage patterns, contract detail
 <h2>Tools Used</h2>
 
 
+- Jupyter Notebook
 
-Jupyter Notebook
+- Python
 
-\- Python
+- Pandas
 
-\- Pandas
+- Numpy
 
-\- Numpy
+- Matplotlib / Seaborn
 
-\- Matplotlib / Seaborn
-
-\- Scikit-learn
-
-&nbsp; 
+- Scikit-learn
 
 
 
