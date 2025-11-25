@@ -85,14 +85,14 @@ The marketing team provided client demographics, usage patterns, contract detail
 
 <br/>
 
-<h3>Distribution of new customer sign up by month</h3>
+<h3 align="center">Distribution of new customer sign up by month</h3>
 
 <img src="https://imgur.com/JwLY9VU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br/>
 
 
-<h3>Distribution of new customer sign up by year</h3>
+<h3 align="center">Distribution of new customer sign up by year</h3>
 
 <img src="https://imgur.com/foCEjbe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
